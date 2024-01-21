@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset = "UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class tittle><tittle>Eternal Sunshine</tittle></div>
+<div class button><button>Yes-And?</button></div>
+<img src = https://www.soyuz.ru/public/uploads/files/3/7631377/202401172053310480f3ad66.jpg>
+</body>
+</html>
+
+
+style.css
+tittle{
+color: burlywood;
+background-color: black;
+}
+
+button{
+    color: burlywood;
+    background-color: black;
+
+}
